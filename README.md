@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-[Klik ini nih kalo mau liat hasilnye](https://fachryafrz.github.io/FrontendMentor-QR_Code/)
+[Klik ini nih kalo mau liat hasilnye](https://fachryafrz.github.io/FMentor-QR_Code/)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
